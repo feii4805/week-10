@@ -1,0 +1,19 @@
+{
+  "name": "week-10",
+  "version": "1.0.0",
+  "description": ".... ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Fei",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-emoji": "^2.1.3",
+    "random-cat-img": "^1.1.4"
+  },
+  "type": "module"
+  
+}
